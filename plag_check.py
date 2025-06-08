@@ -1,7 +1,6 @@
 import cv2
 import numpy as np
 from PIL import Image
-import pytesseract
 import requests
 from bs4 import BeautifulSoup
 from difflib import SequenceMatcher
