@@ -1,5 +1,4 @@
 import os
-import pytesseract
 from PIL import Image
 from difflib import SequenceMatcher
 import requests
